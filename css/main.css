@@ -1,0 +1,19 @@
+.caja1, .caja2
+{
+	width: 200px;
+	height: 200px;
+	border: 15px solid yellow;
+	
+}
+.caja2
+{
+	margin:auto;
+}
+p
+{
+	text-align: center;
+	padding:20px;
+	font-family: Times;
+	font-size:12px;
+	font-weight: bold;
+}
